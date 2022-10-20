@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align:center">Currículo: </h1> <h2>Mateus Villela</h2>
+<h1 style="text-align:center">Currículo: <h2>Mateus Villela</h2></h1> 
 
 Curriculum vitae
 
